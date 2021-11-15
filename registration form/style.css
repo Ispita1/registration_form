@@ -1,0 +1,185 @@
+.registration_form{
+	
+	background-color: skyblue;
+	margin-left: 400px;
+	padding-left: 20px;
+	padding-right: 40px;
+	margin-top: 2px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+	height: 600px;
+	width: 650px;
+	border: 3px solid;
+	font-size: 25px;
+	font-family: lucida fax;
+	color: black;
+	text-align: center;
+}
+
+.reg{
+	color: red;
+	font-size: 45px;
+	font-family: algerian;
+}
+
+.register{
+	height: 50px;
+	width: 170px;
+	border: 1px solid;
+	border-radius: 10px;
+	font-size: 20px;
+	background: skyblue;
+	margin-left: 40px;
+	margin-right: 20px;
+	margin-top: 30px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 1px;
+}
+
+.register:hover{
+	background: orange;
+
+}
+
+.login_page{
+	
+	background-color: skyblue;
+	margin-left: 400px;
+	padding-left: 35px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-top: 5px;
+	padding-bottom: 3px;
+	height: 230px;
+	width: 400px;
+	
+	font-size: 25px;
+	font-family: lucida fax;
+	color: black;
+}
+
+.email,.password{
+	font-size: 20px;
+}
+
+.login{
+	height: 30px;
+	width: 45px;
+	border: 1px solid;
+	border-radius: 1px;
+	font-size: 20px;
+	background: green;
+	margin-left: 26px;
+	margin-right: 5px;
+	margin-top: 50px;
+	padding-right: 50px;
+	
+	padding-top: 1px;
+
+}
+
+.login:hover{
+	background: orange;
+}
+
+.forgot_password{
+	height: 30px;
+	width: 45px;
+	border: 1px solid;
+	border-radius: 1px;
+	font-size: 20px;
+	background: green;
+	margin-left: 26px;
+	margin-right: 5px;
+	margin-top: 50px;
+	padding-right: 150px;
+	
+	padding-top: 1px;
+
+}
+
+.profile{
+	background-color: white;
+	margin-left: 400px;
+	padding-left: 60px;
+	padding-right: 70px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	padding-top: 5px;
+	padding-bottom: 3px;
+	height: 680px;
+	width: 610px;
+	border: 3px solid;
+	font-size: 25px;
+	font-family: lucida fax;
+	color: black;
+}
+
+.fn{
+	font-size: 30px;
+	
+
+}
+
+.Ln{
+	font-size: 30px;
+
+
+
+}
+
+.first_name,.Last_name{
+	border-radius: 5px;
+	width: 150px;
+	height: 30px;
+	background: white;
+	padding-left: 18px;
+
+}
+.p{
+	font-family: algerian;
+	text-align: center;
+	color: skyblue; 
+}
+
+
+
+
+.parmanent_address,.current_address{
+	
+	width: 200px;
+	height: 50px;
+	text-align: center;
+	background: white;
+}
+
+.contact_number,.academic_qualification,.year_of_passing{
+	height: 28px;
+	width: 200px;
+	text-align: center;
+	background: white;
+}
+
+.submit{
+	height: 50px;
+	width: 200px;
+	
+	font-size: 30px;
+	background: yellow;
+	margin-left: 220px;
+
+	
+	
+
+	padding-left: 50px;
+
+	padding-right: 50px;
+
+	
+
+}
+
+.submit:hover{
+	background: red;
+}
